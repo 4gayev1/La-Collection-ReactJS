@@ -1,4 +1,4 @@
-USED:ReactJS,Redux,React router,fakestoreapi,bootstrap /n
+USED:ReactJS,Redux,React router,fakestoreapi,bootstrap <br />
 Live site:https://la-collection.netlify.app/
 
 ![Preview1](https://user-images.githubusercontent.com/74317863/153873867-93dc4846-c154-4b62-a18c-9db3e70dca5d.png)
